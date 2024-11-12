@@ -1,3 +1,3 @@
 ### Розробка програми для селфі
 - Виконав
-- Borejcuk Bogdan AI-235
+- студент Borejcuk Bogdan AI-235
