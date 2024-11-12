@@ -1,2 +1,3 @@
-### Practice №1 Digijed 3 Android
-# Borejcuk Bogdan
+### Розробка програми для селфі
+- Виконав
+- Borejcuk Bogdan AI-235
